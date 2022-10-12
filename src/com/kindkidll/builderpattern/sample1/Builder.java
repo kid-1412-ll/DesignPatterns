@@ -2,7 +2,7 @@ package com.kindkidll.builderpattern.sample1;
 
 /**
  * @author leiliang
- * @description 建造者抽象类
+ * @description 建造者接口
  * @create 2022-10-12 11:09
  */
 interface Builder {
