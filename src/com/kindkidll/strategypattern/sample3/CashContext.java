@@ -5,7 +5,7 @@ package com.kindkidll.strategypattern.sample3;
  * @description
  * @create 2022-06-24 14:47
  */
-public class CashContext {
+class CashContext {
 
     private CashSuper cashSuper;
 

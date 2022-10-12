@@ -5,7 +5,7 @@ package com.kindkidll.simplefactorypattern.sample4;
  * @description
  * @create 2022-06-15 16:11
  */
-public abstract class Operation {
+ abstract class Operation {
 
     private double numberA = 0;
     private double numberB = 0;

@@ -5,7 +5,7 @@ package com.kindkidll.simplefactorypattern.sample3;
  * @description
  * @create 2022-06-15 15:59
  */
-public class Operation {
+class Operation {
 
     public static double getResult(double numberA, double numberB, String operate) {
         double result = 0d;

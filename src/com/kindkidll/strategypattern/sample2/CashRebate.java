@@ -5,7 +5,7 @@ package com.kindkidll.strategypattern.sample2;
  * @description
  * @create 2022-06-24 14:20
  */
-public class CashRebate extends CashSuper {
+class CashRebate extends CashSuper {
 
     private double moneyRebate = 1;
 

@@ -5,7 +5,7 @@ package com.kindkidll.strategypattern.sample4;
  * @description
  * @create 2022-06-24 14:47
  */
-public class CashContext {
+class CashContext {
 
     private static final String[] DISCOUNT_TYPE = new String[]{"正常收费", "满300返100", "打八折"};
 

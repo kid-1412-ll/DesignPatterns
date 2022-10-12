@@ -5,7 +5,7 @@ package com.kindkidll.simplefactorypattern.sample4;
  * @description
  * @create 2022-06-15 16:17
  */
-public class OperationSub extends Operation {
+class OperationSub extends Operation {
 
     @Override
     public double getResult() {
