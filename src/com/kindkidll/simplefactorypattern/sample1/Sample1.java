@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @description 简单工厂模式的引入案例，编写一个简单计算器
  * @create 2022-06-15 15:07
  */
-public class Sample1 {
+class Sample1 {
 
     /**
      *  需要改进的地方

@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @description 简单工厂模式实现简单计算器
  * @create 2022-06-15 16:32
  */
-public class Client {
+class Client {
 
     /**
      * 当需要新增运算操作时，需要执行以下操作

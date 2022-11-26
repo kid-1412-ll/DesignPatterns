@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @description 策略模式的引入案例，编写一个简单商场收银软件
  * @create 2022-06-24 9:43
  */
-public class Sample1 {
+class Sample1 {
 
     private static final String[] DISCOUNT_TYPE = new String[]{"正常收费", "打八折", "打七折", "打六折"};
 

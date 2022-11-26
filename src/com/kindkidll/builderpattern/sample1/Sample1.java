@@ -5,7 +5,7 @@ package com.kindkidll.builderpattern.sample1;
  * @description 简单的建造者模式样例
  * @create 2022-10-12 11:07
  */
-public class Sample1 {
+class Sample1 {
 
     public static void main(String[] args) {
         Director director = new Director();

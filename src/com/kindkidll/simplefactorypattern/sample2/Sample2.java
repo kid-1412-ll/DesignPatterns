@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @description 修复了样例1中的问题
  * @create 2022-06-15 15:22
  */
-public class Sample2 {
+class Sample2 {
 
     /**
      * 需要改进的地方

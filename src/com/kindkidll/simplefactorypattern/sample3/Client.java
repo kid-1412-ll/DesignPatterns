@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @description 业务和界面解耦
  * @create 2022-06-15 16:04
  */
-public class Client {
+class Client {
 
     /**
      * 1.业务逻辑与界面逻辑分离

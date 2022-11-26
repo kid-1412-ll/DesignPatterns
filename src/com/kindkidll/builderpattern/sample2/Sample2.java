@@ -5,7 +5,7 @@ package com.kindkidll.builderpattern.sample2;
  * @description KFC套餐案例
  * @create 2022-10-12 11:07
  */
-public class Sample2 {
+class Sample2 {
 
     public static void main(String[] args) {
         KFCWatier watier = new KFCWatier();
