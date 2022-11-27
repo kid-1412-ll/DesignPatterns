@@ -5,7 +5,7 @@ package com.kindkidll.abstractfactorypattern.simple1;
  * @description 抽象工厂模式简单实现
  * @create 2022-11-27 9:49
  */
-class client {
+class Client {
 
     public static void main(String[] args) {
         AbstractFactory factory;
