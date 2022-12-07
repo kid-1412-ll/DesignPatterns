@@ -5,7 +5,7 @@ package com.kindkidll.abstractfactorypattern.simple1;
  * @description
  * @create 2022-11-27 9:39
  */
-public class ConcreteFactory2 implements AbstractFactory {
+class ConcreteFactory2 implements AbstractFactory {
 
     @Override
     public ProductA2 createProductA() {
